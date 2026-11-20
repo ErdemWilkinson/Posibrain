@@ -1,0 +1,972 @@
+[03:39] 1/5 elle head: basari olasiligi (1 km)
+parametre: 52550  (~51 KB int8)
+it    1 adim 0.03M egitim-bulma %85.2 ent 2.47 [12 s]
+it    5 adim 0.16M egitim-bulma %17.4 ent 2.42 [20 s]
+it   10 adim 0.33M egitim-bulma %32.6 ent 2.30 [30 s]
+it   15 adim 0.49M egitim-bulma %29.1 ent 2.28 [40 s]
+it   20 adim 0.66M egitim-bulma %29.3 ent 2.23 [50 s]
+  DEGERLENDIRME it 20: bulma %0.6 (GA 0.3-1.3) yanlis 0.02 tehlike 20.4 adim 27 kapi - baz-cizgiyi-gecti -
+it   25 adim 0.82M egitim-bulma %24.7 ent 2.23 [68 s]
+it   30 adim 0.98M egitim-bulma %25.8 ent 2.26 [78 s]
+it   35 adim 1.15M egitim-bulma %28.3 ent 2.25 [88 s]
+it   40 adim 1.31M egitim-bulma %28.4 ent 2.25 [97 s]
+  DEGERLENDIRME it 40: bulma %5.2 (GA 4.0-6.8) yanlis 0.04 tehlike 15.5 adim 15 kapi - baz-cizgiyi-gecti -
+it   45 adim 1.47M egitim-bulma %31.6 ent 2.24 [112 s]
+it   50 adim 1.64M egitim-bulma %30.0 ent 2.23 [122 s]
+it   55 adim 1.80M egitim-bulma %32.3 ent 2.25 [132 s]
+it   60 adim 1.97M egitim-bulma %32.7 ent 2.26 [142 s]
+  DEGERLENDIRME it 60: bulma %4.4 (GA 3.3-5.9) yanlis 0.03 tehlike 10.8 adim 15 kapi - baz-cizgiyi-gecti -
+it   65 adim 2.13M egitim-bulma %35.9 ent 2.23 [158 s]
+it   70 adim 2.29M egitim-bulma %32.4 ent 2.21 [168 s]
+it   75 adim 2.46M egitim-bulma %38.5 ent 2.17 [178 s]
+it   80 adim 2.62M egitim-bulma %38.9 ent 2.15 [188 s]
+  DEGERLENDIRME it 80: bulma %0.3 (GA 0.1-0.9) yanlis 0.00 tehlike 16.8 adim 6 kapi - baz-cizgiyi-gecti -
+it   85 adim 2.79M egitim-bulma %37.0 ent 2.11 [203 s]
+it   90 adim 2.95M egitim-bulma %41.1 ent 2.09 [213 s]
+it   95 adim 3.11M egitim-bulma %42.5 ent 2.09 [223 s]
+it  100 adim 3.28M egitim-bulma %47.7 ent 2.08 [234 s]
+  DEGERLENDIRME it 100: bulma %3.3 (GA 2.4-4.6) yanlis 0.02 tehlike 15.6 adim 45 kapi - baz-cizgiyi-gecti -
+it  105 adim 3.44M egitim-bulma %44.6 ent 2.09 [249 s]
+it  110 adim 3.60M egitim-bulma %50.6 ent 2.05 [259 s]
+it  115 adim 3.77M egitim-bulma %52.0 ent 2.01 [269 s]
+it  120 adim 3.93M egitim-bulma %53.5 ent 1.96 [279 s]
+  DEGERLENDIRME it 120: bulma %32.2 (GA 29.4-35.2) yanlis 0.45 tehlike 13.8 adim 58 kapi - baz-cizgiyi-gecti -
+it  125 adim 4.10M egitim-bulma %54.5 ent 1.93 [295 s]
+it  130 adim 4.26M egitim-bulma %57.9 ent 1.92 [305 s]
+it  135 adim 4.42M egitim-bulma %59.8 ent 1.93 [315 s]
+it  140 adim 4.59M egitim-bulma %64.0 ent 1.89 [326 s]
+  DEGERLENDIRME it 140: bulma %61.1 (GA 58.0-64.1) yanlis 0.98 tehlike 13.4 adim 49 kapi - baz-cizgiyi-gecti -
+it  145 adim 4.75M egitim-bulma %62.8 ent 1.88 [340 s]
+it  150 adim 4.92M egitim-bulma %65.8 ent 1.87 [350 s]
+it  155 adim 5.08M egitim-bulma %67.7 ent 1.84 [361 s]
+it  160 adim 5.24M egitim-bulma %68.4 ent 1.83 [371 s]
+  DEGERLENDIRME it 160: bulma %67.0 (GA 64.0-69.8) yanlis 1.02 tehlike 12.2 adim 53 kapi - baz-cizgiyi-gecti -
+it  165 adim 5.41M egitim-bulma %68.7 ent 1.82 [386 s]
+it  170 adim 5.57M egitim-bulma %68.2 ent 1.85 [396 s]
+it  175 adim 5.73M egitim-bulma %69.5 ent 1.84 [406 s]
+it  180 adim 5.90M egitim-bulma %66.9 ent 1.79 [416 s]
+  DEGERLENDIRME it 180: bulma %66.0 (GA 63.0-68.9) yanlis 0.86 tehlike 13.1 adim 56 kapi - baz-cizgiyi-gecti -
+it  185 adim 6.06M egitim-bulma %68.6 ent 1.80 [432 s]
+it  190 adim 6.23M egitim-bulma %67.3 ent 1.77 [443 s]
+it  195 adim 6.39M egitim-bulma %66.9 ent 1.76 [453 s]
+it  200 adim 6.55M egitim-bulma %70.4 ent 1.76 [464 s]
+  DEGERLENDIRME it 200: bulma %71.8 (GA 68.9-74.5) yanlis 0.93 tehlike 11.6 adim 50 kapi - baz-cizgiyi-gecti -
+it  205 adim 6.72M egitim-bulma %70.4 ent 1.76 [482 s]
+it  210 adim 6.88M egitim-bulma %70.3 ent 1.74 [493 s]
+it  215 adim 7.05M egitim-bulma %71.3 ent 1.72 [503 s]
+it  220 adim 7.21M egitim-bulma %70.9 ent 1.69 [513 s]
+  DEGERLENDIRME it 220: bulma %68.3 (GA 65.4-71.1) yanlis 0.94 tehlike 11.8 adim 50 kapi - baz-cizgiyi-gecti -
+it  225 adim 7.37M egitim-bulma %68.8 ent 1.71 [528 s]
+it  230 adim 7.54M egitim-bulma %74.3 ent 1.65 [538 s]
+it  235 adim 7.70M egitim-bulma %72.2 ent 1.66 [549 s]
+it  240 adim 7.86M egitim-bulma %72.3 ent 1.67 [559 s]
+  DEGERLENDIRME it 240: bulma %71.8 (GA 68.9-74.5) yanlis 0.95 tehlike 12.3 adim 50 kapi - baz-cizgiyi-gecti -
+it  245 adim 8.03M egitim-bulma %71.3 ent 1.67 [573 s]
+it  250 adim 8.19M egitim-bulma %71.8 ent 1.70 [583 s]
+it  255 adim 8.36M egitim-bulma %70.4 ent 1.69 [594 s]
+it  260 adim 8.52M egitim-bulma %72.8 ent 1.66 [604 s]
+  DEGERLENDIRME it 260: bulma %69.9 (GA 67.0-72.7) yanlis 0.88 tehlike 11.4 adim 51 kapi - baz-cizgiyi-gecti -
+it  265 adim 8.68M egitim-bulma %72.2 ent 1.68 [620 s]
+it  270 adim 8.85M egitim-bulma %70.5 ent 1.64 [630 s]
+it  275 adim 9.01M egitim-bulma %72.2 ent 1.64 [640 s]
+it  280 adim 9.18M egitim-bulma %70.7 ent 1.63 [651 s]
+  DEGERLENDIRME it 280: bulma %56.1 (GA 53.0-59.1) yanlis 0.71 tehlike 11.0 adim 55 kapi - baz-cizgiyi-gecti -
+it  285 adim 9.34M egitim-bulma %74.7 ent 1.61 [666 s]
+it  290 adim 9.50M egitim-bulma %73.0 ent 1.62 [677 s]
+it  295 adim 9.67M egitim-bulma %75.4 ent 1.60 [687 s]
+it  300 adim 9.83M egitim-bulma %73.9 ent 1.56 [697 s]
+  DEGERLENDIRME it 300: bulma %59.6 (GA 56.5-62.6) yanlis 0.76 tehlike 10.1 adim 48 kapi - baz-cizgiyi-gecti -
+it  305 adim 9.99M egitim-bulma %74.6 ent 1.57 [713 s]
+it  310 adim 10.16M egitim-bulma %73.0 ent 1.56 [723 s]
+it  315 adim 10.32M egitim-bulma %74.3 ent 1.53 [734 s]
+it  320 adim 10.49M egitim-bulma %72.7 ent 1.55 [744 s]
+  DEGERLENDIRME it 320: bulma %62.6 (GA 59.6-65.5) yanlis 0.77 tehlike 11.4 adim 58 kapi - baz-cizgiyi-gecti -
+it  325 adim 10.65M egitim-bulma %72.0 ent 1.54 [759 s]
+it  330 adim 10.81M egitim-bulma %73.6 ent 1.52 [770 s]
+it  335 adim 10.98M egitim-bulma %73.5 ent 1.52 [780 s]
+it  340 adim 11.14M egitim-bulma %74.2 ent 1.52 [790 s]
+  DEGERLENDIRME it 340: bulma %56.9 (GA 53.8-59.9) yanlis 0.72 tehlike 10.7 adim 50 kapi - baz-cizgiyi-gecti -
+it  345 adim 11.30M egitim-bulma %70.9 ent 1.54 [806 s]
+it  350 adim 11.47M egitim-bulma %72.9 ent 1.53 [826 s]
+it  355 adim 11.63M egitim-bulma %70.9 ent 1.48 [843 s]
+it  360 adim 11.80M egitim-bulma %72.3 ent 1.48 [865 s]
+  DEGERLENDIRME it 360: bulma %47.8 (GA 44.7-50.9) yanlis 0.67 tehlike 10.0 adim 48 kapi - baz-cizgiyi-gecti -
+it  365 adim 11.96M egitim-bulma %73.2 ent 1.47 [905 s]
+it  370 adim 12.12M egitim-bulma %74.3 ent 1.49 [921 s]
+it  375 adim 12.29M egitim-bulma %73.5 ent 1.53 [931 s]
+it  380 adim 12.45M egitim-bulma %72.3 ent 1.55 [940 s]
+  DEGERLENDIRME it 380: bulma %63.2 (GA 60.2-66.1) yanlis 0.74 tehlike 10.3 adim 48 kapi - baz-cizgiyi-gecti -
+it  385 adim 12.62M egitim-bulma %73.0 ent 1.54 [955 s]
+it  390 adim 12.78M egitim-bulma %72.1 ent 1.52 [964 s]
+it  395 adim 12.94M egitim-bulma %72.3 ent 1.54 [974 s]
+it  400 adim 13.11M egitim-bulma %71.9 ent 1.48 [983 s]
+  DEGERLENDIRME it 400: bulma %65.1 (GA 62.1-68.0) yanlis 0.77 tehlike 10.8 adim 41 kapi - baz-cizgiyi-gecti -
+it  405 adim 13.27M egitim-bulma %75.1 ent 1.48 [997 s]
+it  410 adim 13.43M egitim-bulma %74.8 ent 1.51 [1007 s]
+it  415 adim 13.60M egitim-bulma %73.6 ent 1.54 [1017 s]
+it  420 adim 13.76M egitim-bulma %73.4 ent 1.50 [1026 s]
+  DEGERLENDIRME it 420: bulma %62.7 (GA 59.7-65.6) yanlis 0.73 tehlike 10.1 adim 42 kapi - baz-cizgiyi-gecti -
+it  425 adim 13.93M egitim-bulma %72.0 ent 1.49 [1040 s]
+it  430 adim 14.09M egitim-bulma %71.2 ent 1.52 [1050 s]
+it  435 adim 14.25M egitim-bulma %74.4 ent 1.51 [1059 s]
+it  440 adim 14.42M egitim-bulma %74.2 ent 1.48 [1069 s]
+  DEGERLENDIRME it 440: bulma %58.8 (GA 55.7-61.8) yanlis 0.76 tehlike 10.3 adim 40 kapi - baz-cizgiyi-gecti -
+it  445 adim 14.58M egitim-bulma %73.9 ent 1.47 [1083 s]
+it  450 adim 14.75M egitim-bulma %74.8 ent 1.43 [1092 s]
+it  455 adim 14.91M egitim-bulma %75.2 ent 1.45 [1102 s]
+it  460 adim 15.07M egitim-bulma %76.6 ent 1.49 [1112 s]
+  DEGERLENDIRME it 460: bulma %65.8 (GA 62.8-68.7) yanlis 0.82 tehlike 10.4 adim 45 kapi - baz-cizgiyi-gecti -
+it  465 adim 15.24M egitim-bulma %75.5 ent 1.51 [1127 s]
+it  470 adim 15.40M egitim-bulma %76.7 ent 1.47 [1136 s]
+it  475 adim 15.56M egitim-bulma %76.2 ent 1.43 [1146 s]
+it  480 adim 15.73M egitim-bulma %76.9 ent 1.41 [1155 s]
+  DEGERLENDIRME it 480: bulma %75.1 (GA 72.3-77.7) yanlis 0.83 tehlike 10.0 adim 45 kapi - baz-cizgiyi-gecti -
+it  485 adim 15.89M egitim-bulma %76.9 ent 1.39 [1170 s]
+it  490 adim 16.06M egitim-bulma %75.6 ent 1.42 [1179 s]
+it  495 adim 16.22M egitim-bulma %73.8 ent 1.46 [1189 s]
+it  500 adim 16.38M egitim-bulma %76.9 ent 1.43 [1198 s]
+  DEGERLENDIRME it 500: bulma %74.4 (GA 71.6-77.0) yanlis 0.96 tehlike 11.3 adim 48 kapi - baz-cizgiyi-gecti -
+it  505 adim 16.55M egitim-bulma %76.8 ent 1.44 [1213 s]
+it  510 adim 16.71M egitim-bulma %77.3 ent 1.42 [1222 s]
+it  515 adim 16.88M egitim-bulma %76.0 ent 1.45 [1232 s]
+it  520 adim 17.04M egitim-bulma %76.3 ent 1.45 [1241 s]
+  DEGERLENDIRME it 520: bulma %72.2 (GA 69.3-74.9) yanlis 0.84 tehlike 11.2 adim 44 kapi - baz-cizgiyi-gecti -
+it  525 adim 17.20M egitim-bulma %75.1 ent 1.43 [1256 s]
+it  530 adim 17.37M egitim-bulma %77.1 ent 1.40 [1265 s]
+it  535 adim 17.53M egitim-bulma %77.9 ent 1.39 [1275 s]
+it  540 adim 17.69M egitim-bulma %77.2 ent 1.38 [1284 s]
+  DEGERLENDIRME it 540: bulma %74.4 (GA 71.6-77.0) yanlis 0.91 tehlike 10.1 adim 47 kapi - baz-cizgiyi-gecti -
+it  545 adim 17.86M egitim-bulma %76.8 ent 1.40 [1298 s]
+it  550 adim 18.02M egitim-bulma %78.1 ent 1.43 [1308 s]
+it  555 adim 18.19M egitim-bulma %78.6 ent 1.36 [1318 s]
+it  560 adim 18.35M egitim-bulma %79.6 ent 1.38 [1327 s]
+  DEGERLENDIRME it 560: bulma %75.6 (GA 72.8-78.2) yanlis 0.92 tehlike 10.6 adim 48 kapi - baz-cizgiyi-gecti -
+it  565 adim 18.51M egitim-bulma %78.3 ent 1.33 [1342 s]
+it  570 adim 18.68M egitim-bulma %78.0 ent 1.37 [1351 s]
+it  575 adim 18.84M egitim-bulma %76.2 ent 1.38 [1361 s]
+it  580 adim 19.01M egitim-bulma %77.3 ent 1.36 [1370 s]
+  DEGERLENDIRME it 580: bulma %76.3 (GA 73.6-78.8) yanlis 0.92 tehlike 10.8 adim 51 kapi - baz-cizgiyi-gecti -
+it  585 adim 19.17M egitim-bulma %78.7 ent 1.36 [1384 s]
+it  590 adim 19.33M egitim-bulma %76.7 ent 1.37 [1393 s]
+it  595 adim 19.50M egitim-bulma %78.6 ent 1.34 [1403 s]
+it  600 adim 19.66M egitim-bulma %78.3 ent 1.35 [1412 s]
+  DEGERLENDIRME it 600: bulma %73.4 (GA 70.6-76.0) yanlis 0.85 tehlike 11.0 adim 48 kapi - baz-cizgiyi-gecti -
+it  605 adim 19.82M egitim-bulma %78.5 ent 1.40 [1425 s]
+it  610 adim 19.99M egitim-bulma %79.5 ent 1.38 [1435 s]
+it  615 adim 20.15M egitim-bulma %76.9 ent 1.41 [1444 s]
+it  620 adim 20.32M egitim-bulma %76.7 ent 1.35 [1454 s]
+  DEGERLENDIRME it 620: bulma %75.6 (GA 72.8-78.2) yanlis 0.91 tehlike 10.6 adim 48 kapi - baz-cizgiyi-gecti -
+it  625 adim 20.48M egitim-bulma %79.0 ent 1.35 [1467 s]
+it  630 adim 20.64M egitim-bulma %76.5 ent 1.34 [1476 s]
+it  635 adim 20.81M egitim-bulma %77.3 ent 1.36 [1486 s]
+it  640 adim 20.97M egitim-bulma %78.8 ent 1.37 [1495 s]
+  DEGERLENDIRME it 640: bulma %72.4 (GA 69.5-75.1) yanlis 0.79 tehlike 10.0 adim 43 kapi - baz-cizgiyi-gecti -
+it  645 adim 21.14M egitim-bulma %77.8 ent 1.36 [1509 s]
+it  650 adim 21.30M egitim-bulma %75.6 ent 1.36 [1518 s]
+it  655 adim 21.46M egitim-bulma %77.9 ent 1.36 [1527 s]
+it  660 adim 21.63M egitim-bulma %78.7 ent 1.34 [1537 s]
+  DEGERLENDIRME it 660: bulma %69.5 (GA 66.6-72.3) yanlis 0.85 tehlike 10.8 adim 47 kapi - baz-cizgiyi-gecti -
+it  665 adim 21.79M egitim-bulma %77.2 ent 1.34 [1551 s]
+it  670 adim 21.95M egitim-bulma %77.9 ent 1.34 [1560 s]
+it  675 adim 22.12M egitim-bulma %78.3 ent 1.33 [1570 s]
+it  680 adim 22.28M egitim-bulma %78.9 ent 1.31 [1579 s]
+  DEGERLENDIRME it 680: bulma %65.9 (GA 62.9-68.8) yanlis 0.82 tehlike 10.6 adim 41 kapi - baz-cizgiyi-gecti -
+it  685 adim 22.45M egitim-bulma %77.8 ent 1.29 [1594 s]
+it  690 adim 22.61M egitim-bulma %79.6 ent 1.31 [1603 s]
+it  695 adim 22.77M egitim-bulma %77.0 ent 1.31 [1612 s]
+it  700 adim 22.94M egitim-bulma %79.1 ent 1.31 [1622 s]
+  DEGERLENDIRME it 700: bulma %75.6 (GA 72.8-78.2) yanlis 0.93 tehlike 9.8 adim 51 kapi - baz-cizgiyi-gecti -
+it  705 adim 23.10M egitim-bulma %80.3 ent 1.33 [1637 s]
+it  710 adim 23.27M egitim-bulma %80.3 ent 1.32 [1646 s]
+it  715 adim 23.43M egitim-bulma %80.1 ent 1.34 [1656 s]
+it  720 adim 23.59M egitim-bulma %80.7 ent 1.34 [1665 s]
+  DEGERLENDIRME it 720: bulma %77.1 (GA 74.4-79.6) yanlis 0.91 tehlike 9.4 adim 45 kapi - baz-cizgiyi-gecti -
+it  725 adim 23.76M egitim-bulma %79.3 ent 1.34 [1679 s]
+it  730 adim 23.92M egitim-bulma %79.9 ent 1.34 [1689 s]
+it  735 adim 24.08M egitim-bulma %79.2 ent 1.35 [1698 s]
+it  740 adim 24.25M egitim-bulma %79.8 ent 1.34 [1707 s]
+  DEGERLENDIRME it 740: bulma %64.1 (GA 61.1-67.0) yanlis 0.79 tehlike 9.3 adim 38 kapi - baz-cizgiyi-gecti -
+it  745 adim 24.41M egitim-bulma %79.7 ent 1.33 [1722 s]
+it  750 adim 24.58M egitim-bulma %77.5 ent 1.33 [1731 s]
+it  755 adim 24.74M egitim-bulma %77.0 ent 1.30 [1741 s]
+it  760 adim 24.90M egitim-bulma %79.3 ent 1.29 [1751 s]
+  DEGERLENDIRME it 760: bulma %58.4 (GA 55.3-61.4) yanlis 0.73 tehlike 9.5 adim 34 kapi - baz-cizgiyi-gecti -
+it  765 adim 25.07M egitim-bulma %76.7 ent 1.28 [1765 s]
+it  770 adim 25.23M egitim-bulma %77.6 ent 1.32 [1775 s]
+it  775 adim 25.40M egitim-bulma %80.2 ent 1.26 [1785 s]
+it  780 adim 25.56M egitim-bulma %80.4 ent 1.27 [1794 s]
+  DEGERLENDIRME it 780: bulma %69.6 (GA 66.7-72.4) yanlis 0.91 tehlike 10.5 adim 43 kapi - baz-cizgiyi-gecti -
+it  785 adim 25.72M egitim-bulma %78.8 ent 1.28 [1809 s]
+it  790 adim 25.89M egitim-bulma %77.6 ent 1.25 [1818 s]
+it  795 adim 26.05M egitim-bulma %78.6 ent 1.23 [1827 s]
+it  800 adim 26.21M egitim-bulma %79.9 ent 1.22 [1837 s]
+  DEGERLENDIRME it 800: bulma %66.1 (GA 63.1-69.0) yanlis 0.74 tehlike 10.0 adim 38 kapi - baz-cizgiyi-gecti -
+KALIBRASYON: Brier 0.3663 (sabit tahmin 0.3352); guvenilirlik (tahmin, gozlenen, n): 0.07,0.01,2059; 0.15,0.02,3194; 0.25,0.05,2895; 0.35,0.06,3312; 0.45,0.09,3834; 0.55,0.10,5092; 0.65,0.13,6539; 0.75,0.20,9080; 0.85,0.30,12041; 0.97,0.56,32305
+bitti
+/opt/tfgpu/lib/python3.10/site-packages/tensorflow/lite/python/convert.py:953: UserWarning: Statistics for quantized inputs were expected, but not specified; continuing anyway.
+  warnings.warn(
+Summary on the non-converted ops:
+---------------------------------
+ * Accepted dialects: tfl, builtin, func
+ * Non-Converted Ops: 24, Total Ops 41, % non-converted = 58.54 %
+ * 24 ARITH ops
+
+
+
+
+int8 boyut: 61.4 KB  (52485 parametre)
+float: %77.4 (GA 75.5-79.2)   int8: %77.0 (GA 75.1-78.8)
+[04:11] 2/5 elle budama w=0.5
+budandi: w=0.5, parametre 52485 -> 13689 (~13 KB int8)  -> runs/p50_init.h5
+agirliklar yuklendi: runs/p50_init.h5
+parametre: 13689  (~13 KB int8)
+it    1 adim 0.03M egitim-bulma %89.7 ent 2.36 [10 s]
+it    5 adim 0.16M egitim-bulma %40.1 ent 2.36 [18 s]
+it   10 adim 0.33M egitim-bulma %44.4 ent 2.28 [27 s]
+it   15 adim 0.49M egitim-bulma %54.6 ent 2.14 [37 s]
+it   20 adim 0.66M egitim-bulma %63.9 ent 2.05 [46 s]
+  DEGERLENDIRME it 20: bulma %70.6 (GA 67.7-73.3) yanlis 0.81 tehlike 11.6 adim 61 kapi - baz-cizgiyi-gecti -
+it   25 adim 0.82M egitim-bulma %68.4 ent 2.01 [60 s]
+it   30 adim 0.98M egitim-bulma %66.1 ent 2.00 [70 s]
+it   35 adim 1.15M egitim-bulma %67.1 ent 1.96 [79 s]
+it   40 adim 1.31M egitim-bulma %70.1 ent 1.90 [88 s]
+  DEGERLENDIRME it 40: bulma %68.7 (GA 65.8-71.5) yanlis 0.71 tehlike 12.6 adim 58 kapi - baz-cizgiyi-gecti -
+it   45 adim 1.47M egitim-bulma %68.8 ent 1.88 [102 s]
+it   50 adim 1.64M egitim-bulma %69.5 ent 1.86 [111 s]
+it   55 adim 1.80M egitim-bulma %72.8 ent 1.84 [120 s]
+it   60 adim 1.97M egitim-bulma %70.8 ent 1.81 [130 s]
+  DEGERLENDIRME it 60: bulma %65.6 (GA 62.6-68.5) yanlis 0.80 tehlike 11.4 adim 66 kapi - baz-cizgiyi-gecti -
+it   65 adim 2.13M egitim-bulma %71.6 ent 1.82 [145 s]
+it   70 adim 2.29M egitim-bulma %71.5 ent 1.83 [154 s]
+it   75 adim 2.46M egitim-bulma %72.1 ent 1.79 [164 s]
+it   80 adim 2.62M egitim-bulma %72.1 ent 1.84 [173 s]
+  DEGERLENDIRME it 80: bulma %70.8 (GA 67.9-73.5) yanlis 0.78 tehlike 11.9 adim 57 kapi - baz-cizgiyi-gecti -
+it   85 adim 2.79M egitim-bulma %69.7 ent 1.85 [187 s]
+it   90 adim 2.95M egitim-bulma %72.6 ent 1.82 [196 s]
+it   95 adim 3.11M egitim-bulma %75.0 ent 1.77 [206 s]
+it  100 adim 3.28M egitim-bulma %73.4 ent 1.79 [215 s]
+  DEGERLENDIRME it 100: bulma %72.7 (GA 69.9-75.4) yanlis 0.81 tehlike 12.5 adim 62 kapi - baz-cizgiyi-gecti -
+it  105 adim 3.44M egitim-bulma %71.8 ent 1.80 [230 s]
+it  110 adim 3.60M egitim-bulma %72.1 ent 1.80 [239 s]
+it  115 adim 3.77M egitim-bulma %72.8 ent 1.80 [249 s]
+it  120 adim 3.93M egitim-bulma %74.1 ent 1.77 [258 s]
+  DEGERLENDIRME it 120: bulma %68.6 (GA 65.7-71.4) yanlis 0.70 tehlike 13.3 adim 55 kapi - baz-cizgiyi-gecti -
+it  125 adim 4.10M egitim-bulma %71.9 ent 1.78 [271 s]
+it  130 adim 4.26M egitim-bulma %75.4 ent 1.77 [280 s]
+it  135 adim 4.42M egitim-bulma %75.7 ent 1.77 [290 s]
+it  140 adim 4.59M egitim-bulma %74.4 ent 1.78 [299 s]
+  DEGERLENDIRME it 140: bulma %68.3 (GA 65.4-71.1) yanlis 0.60 tehlike 12.6 adim 58 kapi - baz-cizgiyi-gecti -
+it  145 adim 4.75M egitim-bulma %75.2 ent 1.81 [312 s]
+it  150 adim 4.92M egitim-bulma %73.9 ent 1.77 [321 s]
+it  155 adim 5.08M egitim-bulma %74.2 ent 1.78 [330 s]
+it  160 adim 5.24M egitim-bulma %76.5 ent 1.78 [340 s]
+  DEGERLENDIRME it 160: bulma %70.8 (GA 67.9-73.5) yanlis 0.89 tehlike 11.1 adim 74 kapi - baz-cizgiyi-gecti -
+it  165 adim 5.41M egitim-bulma %73.6 ent 1.78 [355 s]
+it  170 adim 5.57M egitim-bulma %74.7 ent 1.80 [365 s]
+it  175 adim 5.73M egitim-bulma %74.9 ent 1.80 [374 s]
+it  180 adim 5.90M egitim-bulma %73.9 ent 1.83 [383 s]
+  DEGERLENDIRME it 180: bulma %74.1 (GA 71.3-76.7) yanlis 0.87 tehlike 11.4 adim 58 kapi - baz-cizgiyi-gecti -
+it  185 adim 6.06M egitim-bulma %75.9 ent 1.83 [397 s]
+it  190 adim 6.23M egitim-bulma %75.5 ent 1.81 [406 s]
+it  195 adim 6.39M egitim-bulma %76.1 ent 1.83 [415 s]
+it  200 adim 6.55M egitim-bulma %75.1 ent 1.82 [425 s]
+  DEGERLENDIRME it 200: bulma %75.4 (GA 72.6-78.0) yanlis 0.82 tehlike 11.1 adim 73 kapi - baz-cizgiyi-gecti -
+it  205 adim 6.72M egitim-bulma %75.2 ent 1.84 [440 s]
+it  210 adim 6.88M egitim-bulma %74.5 ent 1.82 [449 s]
+it  215 adim 7.05M egitim-bulma %75.1 ent 1.82 [458 s]
+it  220 adim 7.21M egitim-bulma %73.5 ent 1.85 [467 s]
+  DEGERLENDIRME it 220: bulma %66.8 (GA 63.8-69.6) yanlis 0.79 tehlike 10.4 adim 83 kapi - baz-cizgiyi-gecti -
+it  225 adim 7.37M egitim-bulma %74.0 ent 1.79 [483 s]
+it  230 adim 7.54M egitim-bulma %75.8 ent 1.78 [492 s]
+it  235 adim 7.70M egitim-bulma %75.6 ent 1.78 [502 s]
+it  240 adim 7.86M egitim-bulma %73.9 ent 1.77 [511 s]
+  DEGERLENDIRME it 240: bulma %66.8 (GA 63.8-69.6) yanlis 0.90 tehlike 11.0 adim 80 kapi - baz-cizgiyi-gecti -
+it  245 adim 8.03M egitim-bulma %74.9 ent 1.75 [527 s]
+it  250 adim 8.19M egitim-bulma %76.1 ent 1.79 [538 s]
+it  255 adim 8.36M egitim-bulma %76.0 ent 1.80 [548 s]
+it  260 adim 8.52M egitim-bulma %76.4 ent 1.80 [560 s]
+  DEGERLENDIRME it 260: bulma %73.1 (GA 70.3-75.8) yanlis 0.88 tehlike 11.0 adim 71 kapi - baz-cizgiyi-gecti -
+it  265 adim 8.68M egitim-bulma %77.6 ent 1.79 [578 s]
+it  270 adim 8.85M egitim-bulma %75.7 ent 1.79 [588 s]
+it  275 adim 9.01M egitim-bulma %77.9 ent 1.76 [598 s]
+it  280 adim 9.18M egitim-bulma %76.4 ent 1.78 [608 s]
+  DEGERLENDIRME it 280: bulma %77.1 (GA 74.4-79.6) yanlis 0.86 tehlike 12.0 adim 59 kapi - baz-cizgiyi-gecti -
+it  285 adim 9.34M egitim-bulma %76.9 ent 1.75 [622 s]
+it  290 adim 9.50M egitim-bulma %76.9 ent 1.76 [632 s]
+it  295 adim 9.67M egitim-bulma %77.6 ent 1.74 [641 s]
+it  300 adim 9.83M egitim-bulma %78.7 ent 1.70 [650 s]
+  DEGERLENDIRME it 300: bulma %73.0 (GA 70.2-75.7) yanlis 0.91 tehlike 11.5 adim 71 kapi - baz-cizgiyi-gecti -
+bitti
+/opt/tfgpu/lib/python3.10/site-packages/tensorflow/lite/python/convert.py:953: UserWarning: Statistics for quantized inputs were expected, but not specified; continuing anyway.
+  warnings.warn(
+Summary on the non-converted ops:
+---------------------------------
+ * Accepted dialects: tfl, builtin, func
+ * Non-Converted Ops: 22, Total Ops 38, % non-converted = 57.89 %
+ * 22 ARITH ops
+
+
+
+
+int8 boyut: 21.8 KB  (13656 parametre)
+float: %74.1 (GA 72.1-76.0)   int8: %73.0 (GA 71.0-74.9)
+parametre: 13689  (~13 KB int8)
+it    1 adim 0.03M egitim-bulma %87.1 ent 2.46 [11 s]
+it    5 adim 0.16M egitim-bulma %15.4 ent 2.42 [18 s]
+it   10 adim 0.33M egitim-bulma %22.6 ent 2.39 [26 s]
+it   15 adim 0.49M egitim-bulma %27.8 ent 2.36 [35 s]
+it   20 adim 0.66M egitim-bulma %30.4 ent 2.35 [43 s]
+  DEGERLENDIRME it 20: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 21.5 adim nan kapi - baz-cizgiyi-gecti -
+it   25 adim 0.82M egitim-bulma %31.7 ent 2.29 [56 s]
+it   30 adim 0.98M egitim-bulma %29.8 ent 2.34 [65 s]
+it   35 adim 1.15M egitim-bulma %27.1 ent 2.34 [73 s]
+it   40 adim 1.31M egitim-bulma %30.2 ent 2.33 [82 s]
+  DEGERLENDIRME it 40: bulma %7.0 (GA 5.6-8.8) yanlis 0.13 tehlike 8.9 adim 23 kapi - baz-cizgiyi-gecti -
+it   45 adim 1.47M egitim-bulma %31.3 ent 2.30 [97 s]
+it   50 adim 1.64M egitim-bulma %30.7 ent 2.32 [105 s]
+it   55 adim 1.80M egitim-bulma %33.9 ent 2.29 [114 s]
+it   60 adim 1.97M egitim-bulma %33.3 ent 2.29 [123 s]
+  DEGERLENDIRME it 60: bulma %15.2 (GA 13.1-17.6) yanlis 0.15 tehlike 17.8 adim 20 kapi - baz-cizgiyi-gecti -
+it   65 adim 2.13M egitim-bulma %35.9 ent 2.31 [137 s]
+it   70 adim 2.29M egitim-bulma %33.6 ent 2.28 [146 s]
+it   75 adim 2.46M egitim-bulma %35.5 ent 2.29 [155 s]
+it   80 adim 2.62M egitim-bulma %33.9 ent 2.27 [164 s]
+  DEGERLENDIRME it 80: bulma %12.7 (GA 10.8-14.9) yanlis 0.25 tehlike 19.7 adim 14 kapi - baz-cizgiyi-gecti -
+it   85 adim 2.79M egitim-bulma %35.2 ent 2.27 [177 s]
+it   90 adim 2.95M egitim-bulma %42.2 ent 2.23 [186 s]
+it   95 adim 3.11M egitim-bulma %42.7 ent 2.21 [195 s]
+it  100 adim 3.28M egitim-bulma %44.0 ent 2.16 [204 s]
+  DEGERLENDIRME it 100: bulma %32.0 (GA 29.2-35.0) yanlis 0.49 tehlike 15.5 adim 36 kapi - baz-cizgiyi-gecti -
+it  105 adim 3.44M egitim-bulma %42.6 ent 2.16 [219 s]
+it  110 adim 3.60M egitim-bulma %45.8 ent 2.12 [227 s]
+it  115 adim 3.77M egitim-bulma %47.8 ent 2.07 [236 s]
+it  120 adim 3.93M egitim-bulma %51.6 ent 2.04 [245 s]
+  DEGERLENDIRME it 120: bulma %50.0 (GA 46.9-53.1) yanlis 0.53 tehlike 14.8 adim 48 kapi - baz-cizgiyi-gecti -
+it  125 adim 4.10M egitim-bulma %53.8 ent 2.06 [258 s]
+it  130 adim 4.26M egitim-bulma %54.5 ent 2.07 [267 s]
+it  135 adim 4.42M egitim-bulma %55.7 ent 2.00 [276 s]
+it  140 adim 4.59M egitim-bulma %57.9 ent 1.99 [286 s]
+  DEGERLENDIRME it 140: bulma %47.6 (GA 44.5-50.7) yanlis 0.73 tehlike 13.0 adim 43 kapi - baz-cizgiyi-gecti -
+it  145 adim 4.75M egitim-bulma %57.6 ent 1.94 [300 s]
+it  150 adim 4.92M egitim-bulma %60.9 ent 1.89 [309 s]
+it  155 adim 5.08M egitim-bulma %61.8 ent 1.93 [318 s]
+it  160 adim 5.24M egitim-bulma %63.0 ent 1.96 [327 s]
+  DEGERLENDIRME it 160: bulma %52.9 (GA 49.8-56.0) yanlis 0.87 tehlike 13.5 adim 63 kapi - baz-cizgiyi-gecti -
+it  165 adim 5.41M egitim-bulma %59.6 ent 1.93 [340 s]
+it  170 adim 5.57M egitim-bulma %62.6 ent 1.92 [349 s]
+it  175 adim 5.73M egitim-bulma %63.6 ent 1.89 [358 s]
+it  180 adim 5.90M egitim-bulma %62.7 ent 1.92 [367 s]
+  DEGERLENDIRME it 180: bulma %60.8 (GA 57.7-63.8) yanlis 0.97 tehlike 13.0 adim 57 kapi - baz-cizgiyi-gecti -
+it  185 adim 6.06M egitim-bulma %63.8 ent 1.90 [380 s]
+it  190 adim 6.23M egitim-bulma %65.7 ent 1.85 [388 s]
+it  195 adim 6.39M egitim-bulma %64.9 ent 1.89 [397 s]
+it  200 adim 6.55M egitim-bulma %69.0 ent 1.85 [406 s]
+  DEGERLENDIRME it 200: bulma %61.0 (GA 57.9-64.0) yanlis 0.90 tehlike 12.0 adim 72 kapi - baz-cizgiyi-gecti -
+it  205 adim 6.72M egitim-bulma %68.2 ent 1.83 [420 s]
+it  210 adim 6.88M egitim-bulma %67.6 ent 1.77 [429 s]
+it  215 adim 7.05M egitim-bulma %68.9 ent 1.80 [438 s]
+it  220 adim 7.21M egitim-bulma %69.2 ent 1.78 [447 s]
+  DEGERLENDIRME it 220: bulma %59.1 (GA 56.0-62.1) yanlis 0.85 tehlike 11.7 adim 81 kapi - baz-cizgiyi-gecti -
+it  225 adim 7.37M egitim-bulma %70.4 ent 1.82 [461 s]
+it  230 adim 7.54M egitim-bulma %71.0 ent 1.83 [470 s]
+it  235 adim 7.70M egitim-bulma %69.7 ent 1.79 [480 s]
+it  240 adim 7.86M egitim-bulma %70.4 ent 1.75 [489 s]
+  DEGERLENDIRME it 240: bulma %70.2 (GA 67.3-73.0) yanlis 1.00 tehlike 13.0 adim 59 kapi - baz-cizgiyi-gecti -
+it  245 adim 8.03M egitim-bulma %70.5 ent 1.74 [501 s]
+it  250 adim 8.19M egitim-bulma %69.5 ent 1.74 [510 s]
+it  255 adim 8.36M egitim-bulma %73.4 ent 1.73 [519 s]
+it  260 adim 8.52M egitim-bulma %74.4 ent 1.74 [528 s]
+  DEGERLENDIRME it 260: bulma %69.5 (GA 66.6-72.3) yanlis 0.96 tehlike 10.5 adim 72 kapi - baz-cizgiyi-gecti -
+it  265 adim 8.68M egitim-bulma %74.6 ent 1.73 [542 s]
+it  270 adim 8.85M egitim-bulma %74.1 ent 1.74 [551 s]
+it  275 adim 9.01M egitim-bulma %71.1 ent 1.82 [560 s]
+it  280 adim 9.18M egitim-bulma %70.8 ent 1.79 [569 s]
+  DEGERLENDIRME it 280: bulma %61.4 (GA 58.3-64.4) yanlis 0.84 tehlike 10.2 adim 82 kapi - baz-cizgiyi-gecti -
+it  285 adim 9.34M egitim-bulma %72.9 ent 1.76 [583 s]
+it  290 adim 9.50M egitim-bulma %73.4 ent 1.72 [592 s]
+it  295 adim 9.67M egitim-bulma %70.5 ent 1.73 [601 s]
+it  300 adim 9.83M egitim-bulma %74.4 ent 1.70 [610 s]
+  DEGERLENDIRME it 300: bulma %72.1 (GA 69.2-74.8) yanlis 0.97 tehlike 12.4 adim 62 kapi - baz-cizgiyi-gecti -
+it  305 adim 9.99M egitim-bulma %73.4 ent 1.72 [624 s]
+it  310 adim 10.16M egitim-bulma %73.4 ent 1.75 [633 s]
+it  315 adim 10.32M egitim-bulma %71.4 ent 1.79 [642 s]
+it  320 adim 10.49M egitim-bulma %72.5 ent 1.77 [651 s]
+  DEGERLENDIRME it 320: bulma %70.6 (GA 67.7-73.3) yanlis 0.91 tehlike 12.7 adim 62 kapi - baz-cizgiyi-gecti -
+it  325 adim 10.65M egitim-bulma %74.7 ent 1.69 [665 s]
+it  330 adim 10.81M egitim-bulma %74.4 ent 1.73 [674 s]
+it  335 adim 10.98M egitim-bulma %74.1 ent 1.68 [683 s]
+it  340 adim 11.14M egitim-bulma %76.0 ent 1.68 [692 s]
+  DEGERLENDIRME it 340: bulma %74.5 (GA 71.7-77.1) yanlis 0.98 tehlike 12.3 adim 55 kapi - baz-cizgiyi-gecti -
+it  345 adim 11.30M egitim-bulma %75.2 ent 1.67 [705 s]
+it  350 adim 11.47M egitim-bulma %75.2 ent 1.69 [714 s]
+it  355 adim 11.63M egitim-bulma %73.6 ent 1.66 [723 s]
+it  360 adim 11.80M egitim-bulma %76.7 ent 1.65 [732 s]
+  DEGERLENDIRME it 360: bulma %60.8 (GA 57.7-63.8) yanlis 0.58 tehlike 13.6 adim 55 kapi - baz-cizgiyi-gecti -
+it  365 adim 11.96M egitim-bulma %74.7 ent 1.66 [744 s]
+it  370 adim 12.12M egitim-bulma %74.7 ent 1.64 [753 s]
+it  375 adim 12.29M egitim-bulma %75.5 ent 1.58 [762 s]
+it  380 adim 12.45M egitim-bulma %76.8 ent 1.58 [771 s]
+  DEGERLENDIRME it 380: bulma %72.5 (GA 69.7-75.2) yanlis 0.83 tehlike 12.7 adim 56 kapi - baz-cizgiyi-gecti -
+it  385 adim 12.62M egitim-bulma %76.2 ent 1.58 [783 s]
+it  390 adim 12.78M egitim-bulma %76.2 ent 1.61 [792 s]
+it  395 adim 12.94M egitim-bulma %77.4 ent 1.58 [801 s]
+it  400 adim 13.11M egitim-bulma %77.9 ent 1.57 [810 s]
+  DEGERLENDIRME it 400: bulma %73.4 (GA 70.6-76.0) yanlis 0.92 tehlike 12.5 adim 68 kapi - baz-cizgiyi-gecti -
+it  405 adim 13.27M egitim-bulma %79.5 ent 1.56 [824 s]
+it  410 adim 13.43M egitim-bulma %77.9 ent 1.51 [833 s]
+it  415 adim 13.60M egitim-bulma %76.6 ent 1.60 [842 s]
+it  420 adim 13.76M egitim-bulma %76.5 ent 1.61 [851 s]
+  DEGERLENDIRME it 420: bulma %76.1 (GA 73.4-78.6) yanlis 0.97 tehlike 12.7 adim 64 kapi - baz-cizgiyi-gecti -
+it  425 adim 13.93M egitim-bulma %77.0 ent 1.55 [865 s]
+it  430 adim 14.09M egitim-bulma %77.8 ent 1.52 [874 s]
+it  435 adim 14.25M egitim-bulma %78.0 ent 1.53 [884 s]
+it  440 adim 14.42M egitim-bulma %76.6 ent 1.56 [892 s]
+  DEGERLENDIRME it 440: bulma %76.2 (GA 73.5-78.7) yanlis 0.94 tehlike 11.6 adim 60 kapi - baz-cizgiyi-gecti -
+it  445 adim 14.58M egitim-bulma %77.3 ent 1.56 [906 s]
+it  450 adim 14.75M egitim-bulma %77.5 ent 1.52 [915 s]
+it  455 adim 14.91M egitim-bulma %79.2 ent 1.50 [924 s]
+it  460 adim 15.07M egitim-bulma %77.9 ent 1.53 [933 s]
+  DEGERLENDIRME it 460: bulma %75.6 (GA 72.8-78.2) yanlis 0.87 tehlike 12.5 adim 56 kapi - baz-cizgiyi-gecti -
+it  465 adim 15.24M egitim-bulma %77.3 ent 1.56 [945 s]
+it  470 adim 15.40M egitim-bulma %76.6 ent 1.57 [954 s]
+it  475 adim 15.56M egitim-bulma %76.5 ent 1.56 [963 s]
+it  480 adim 15.73M egitim-bulma %77.5 ent 1.54 [972 s]
+  DEGERLENDIRME it 480: bulma %75.9 (GA 73.2-78.4) yanlis 1.02 tehlike 10.9 adim 61 kapi - baz-cizgiyi-gecti -
+it  485 adim 15.89M egitim-bulma %79.0 ent 1.54 [986 s]
+it  490 adim 16.06M egitim-bulma %81.1 ent 1.49 [995 s]
+it  495 adim 16.22M egitim-bulma %78.2 ent 1.52 [1004 s]
+it  500 adim 16.38M egitim-bulma %79.6 ent 1.51 [1013 s]
+  DEGERLENDIRME it 500: bulma %73.1 (GA 70.3-75.8) yanlis 0.96 tehlike 11.3 adim 61 kapi - baz-cizgiyi-gecti -
+it  505 adim 16.55M egitim-bulma %79.1 ent 1.50 [1027 s]
+it  510 adim 16.71M egitim-bulma %79.1 ent 1.55 [1036 s]
+it  515 adim 16.88M egitim-bulma %79.0 ent 1.55 [1045 s]
+it  520 adim 17.04M egitim-bulma %77.5 ent 1.59 [1053 s]
+  DEGERLENDIRME it 520: bulma %79.0 (GA 76.4-81.4) yanlis 1.01 tehlike 11.3 adim 52 kapi GECTI baz-cizgiyi-gecti -
+it  525 adim 17.20M egitim-bulma %79.3 ent 1.58 [1067 s]
+it  530 adim 17.37M egitim-bulma %77.1 ent 1.57 [1076 s]
+it  535 adim 17.53M egitim-bulma %77.3 ent 1.59 [1085 s]
+it  540 adim 17.69M egitim-bulma %77.9 ent 1.53 [1094 s]
+  DEGERLENDIRME it 540: bulma %77.7 (GA 75.0-80.2) yanlis 0.98 tehlike 11.4 adim 55 kapi - baz-cizgiyi-gecti -
+it  545 adim 17.86M egitim-bulma %78.5 ent 1.56 [1108 s]
+it  550 adim 18.02M egitim-bulma %76.5 ent 1.56 [1117 s]
+it  555 adim 18.19M egitim-bulma %80.1 ent 1.60 [1126 s]
+it  560 adim 18.35M egitim-bulma %77.9 ent 1.58 [1135 s]
+  DEGERLENDIRME it 560: bulma %77.0 (GA 74.3-79.5) yanlis 1.11 tehlike 11.6 adim 54 kapi - baz-cizgiyi-gecti -
+it  565 adim 18.51M egitim-bulma %78.6 ent 1.54 [1149 s]
+it  570 adim 18.68M egitim-bulma %78.9 ent 1.59 [1158 s]
+it  575 adim 18.84M egitim-bulma %77.8 ent 1.60 [1168 s]
+it  580 adim 19.01M egitim-bulma %77.7 ent 1.59 [1177 s]
+  DEGERLENDIRME it 580: bulma %78.8 (GA 76.2-81.2) yanlis 0.99 tehlike 11.3 adim 54 kapi GECTI baz-cizgiyi-gecti -
+it  585 adim 19.17M egitim-bulma %78.1 ent 1.56 [1190 s]
+it  590 adim 19.33M egitim-bulma %77.4 ent 1.54 [1199 s]
+it  595 adim 19.50M egitim-bulma %78.9 ent 1.56 [1208 s]
+it  600 adim 19.66M egitim-bulma %79.5 ent 1.54 [1217 s]
+  DEGERLENDIRME it 600: bulma %70.1 (GA 67.2-72.9) yanlis 1.04 tehlike 10.3 adim 64 kapi - baz-cizgiyi-gecti -
+it  605 adim 19.82M egitim-bulma %81.7 ent 1.51 [1232 s]
+it  610 adim 19.99M egitim-bulma %78.5 ent 1.56 [1241 s]
+it  615 adim 20.15M egitim-bulma %78.7 ent 1.55 [1250 s]
+it  620 adim 20.32M egitim-bulma %80.0 ent 1.52 [1258 s]
+  DEGERLENDIRME it 620: bulma %78.7 (GA 76.1-81.1) yanlis 1.02 tehlike 10.7 adim 51 kapi GECTI baz-cizgiyi-gecti -
+it  625 adim 20.48M egitim-bulma %79.9 ent 1.52 [1272 s]
+it  630 adim 20.64M egitim-bulma %78.9 ent 1.52 [1281 s]
+it  635 adim 20.81M egitim-bulma %78.2 ent 1.51 [1289 s]
+it  640 adim 20.97M egitim-bulma %78.7 ent 1.51 [1298 s]
+  DEGERLENDIRME it 640: bulma %75.5 (GA 72.7-78.1) yanlis 0.85 tehlike 12.5 adim 58 kapi - baz-cizgiyi-gecti -
+it  645 adim 21.14M egitim-bulma %77.9 ent 1.53 [1311 s]
+it  650 adim 21.30M egitim-bulma %78.8 ent 1.55 [1320 s]
+it  655 adim 21.46M egitim-bulma %76.8 ent 1.58 [1330 s]
+it  660 adim 21.63M egitim-bulma %78.5 ent 1.56 [1341 s]
+  DEGERLENDIRME it 660: bulma %75.3 (GA 72.5-77.9) yanlis 0.99 tehlike 10.7 adim 54 kapi - baz-cizgiyi-gecti -
+it  665 adim 21.79M egitim-bulma %79.5 ent 1.53 [1355 s]
+it  670 adim 21.95M egitim-bulma %78.5 ent 1.51 [1364 s]
+it  675 adim 22.12M egitim-bulma %79.3 ent 1.52 [1374 s]
+it  680 adim 22.28M egitim-bulma %78.9 ent 1.50 [1384 s]
+  DEGERLENDIRME it 680: bulma %75.2 (GA 72.4-77.8) yanlis 0.90 tehlike 10.6 adim 62 kapi - baz-cizgiyi-gecti -
+it  685 adim 22.45M egitim-bulma %79.1 ent 1.51 [1399 s]
+it  690 adim 22.61M egitim-bulma %80.3 ent 1.54 [1408 s]
+it  695 adim 22.77M egitim-bulma %78.7 ent 1.54 [1417 s]
+it  700 adim 22.94M egitim-bulma %79.3 ent 1.46 [1426 s]
+  DEGERLENDIRME it 700: bulma %79.9 (GA 77.3-82.3) yanlis 1.04 tehlike 10.6 adim 48 kapi GECTI baz-cizgiyi-gecti -
+it  705 adim 23.10M egitim-bulma %79.3 ent 1.44 [1439 s]
+it  710 adim 23.27M egitim-bulma %80.7 ent 1.50 [1448 s]
+it  715 adim 23.43M egitim-bulma %78.5 ent 1.51 [1457 s]
+it  720 adim 23.59M egitim-bulma %80.0 ent 1.55 [1466 s]
+  DEGERLENDIRME it 720: bulma %81.6 (GA 79.1-83.9) yanlis 1.05 tehlike 10.3 adim 48 kapi GECTI baz-cizgiyi-gecti -
+it  725 adim 23.76M egitim-bulma %79.7 ent 1.55 [1479 s]
+it  730 adim 23.92M egitim-bulma %78.7 ent 1.50 [1488 s]
+it  735 adim 24.08M egitim-bulma %79.1 ent 1.54 [1497 s]
+it  740 adim 24.25M egitim-bulma %80.0 ent 1.53 [1506 s]
+  DEGERLENDIRME it 740: bulma %77.2 (GA 74.5-79.7) yanlis 1.12 tehlike 10.5 adim 50 kapi - baz-cizgiyi-gecti -
+it  745 adim 24.41M egitim-bulma %77.7 ent 1.55 [1521 s]
+it  750 adim 24.58M egitim-bulma %79.2 ent 1.52 [1529 s]
+it  755 adim 24.74M egitim-bulma %79.1 ent 1.49 [1539 s]
+it  760 adim 24.90M egitim-bulma %80.6 ent 1.51 [1547 s]
+  DEGERLENDIRME it 760: bulma %80.7 (GA 78.1-83.0) yanlis 1.07 tehlike 10.5 adim 50 kapi GECTI baz-cizgiyi-gecti -
+it  765 adim 25.07M egitim-bulma %78.9 ent 1.50 [1561 s]
+it  770 adim 25.23M egitim-bulma %79.3 ent 1.54 [1570 s]
+it  775 adim 25.40M egitim-bulma %79.0 ent 1.61 [1579 s]
+it  780 adim 25.56M egitim-bulma %79.2 ent 1.56 [1588 s]
+  DEGERLENDIRME it 780: bulma %81.1 (GA 78.6-83.4) yanlis 1.06 tehlike 10.2 adim 48 kapi GECTI baz-cizgiyi-gecti -
+it  785 adim 25.72M egitim-bulma %78.7 ent 1.55 [1600 s]
+it  790 adim 25.89M egitim-bulma %80.5 ent 1.58 [1609 s]
+it  795 adim 26.05M egitim-bulma %80.2 ent 1.55 [1618 s]
+it  800 adim 26.21M egitim-bulma %77.4 ent 1.53 [1627 s]
+  DEGERLENDIRME it 800: bulma %80.8 (GA 78.2-83.1) yanlis 1.06 tehlike 10.5 adim 48 kapi GECTI baz-cizgiyi-gecti -
+bitti
+/opt/tfgpu/lib/python3.10/site-packages/tensorflow/lite/python/convert.py:953: UserWarning: Statistics for quantized inputs were expected, but not specified; continuing anyway.
+  warnings.warn(
+Summary on the non-converted ops:
+---------------------------------
+ * Accepted dialects: tfl, builtin, func
+ * Non-Converted Ops: 22, Total Ops 38, % non-converted = 57.89 %
+ * 22 ARITH ops
+
+
+
+
+int8 boyut: 21.8 KB  (13656 parametre)
+float: %82.0 (GA 80.2-83.6)   int8: %80.7 (GA 78.9-82.4)
+[04:50] 3/5 2 dron, 1.4 km
+parametre: 52581  (~51 KB int8)
+it    1 adim 0.03M egitim-bulma %97.0 ent 2.47 [12 s]
+it    5 adim 0.16M egitim-bulma %24.1 ent 2.41 [19 s]
+it   10 adim 0.33M egitim-bulma %27.2 ent 2.34 [28 s]
+it   15 adim 0.49M egitim-bulma %26.9 ent 2.34 [38 s]
+it   20 adim 0.66M egitim-bulma %27.8 ent 2.33 [47 s]
+  DEGERLENDIRME it 20: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 45.1 adim nan kapi - baz-cizgiyi-gecti -
+it   25 adim 0.82M egitim-bulma %21.3 ent 2.33 [67 s]
+it   30 adim 0.98M egitim-bulma %18.1 ent 2.36 [76 s]
+it   35 adim 1.15M egitim-bulma %24.4 ent 2.35 [85 s]
+it   40 adim 1.31M egitim-bulma %23.9 ent 2.32 [94 s]
+  DEGERLENDIRME it 40: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 41.2 adim nan kapi - baz-cizgiyi-gecti -
+it   45 adim 1.47M egitim-bulma %24.0 ent 2.31 [118 s]
+it   50 adim 1.64M egitim-bulma %22.2 ent 2.31 [128 s]
+it   55 adim 1.80M egitim-bulma %23.1 ent 2.34 [137 s]
+it   60 adim 1.97M egitim-bulma %24.8 ent 2.31 [146 s]
+  DEGERLENDIRME it 60: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 35.6 adim nan kapi - baz-cizgiyi-gecti -
+it   65 adim 2.13M egitim-bulma %23.8 ent 2.27 [167 s]
+it   70 adim 2.29M egitim-bulma %24.4 ent 2.28 [176 s]
+it   75 adim 2.46M egitim-bulma %24.7 ent 2.28 [185 s]
+it   80 adim 2.62M egitim-bulma %29.8 ent 2.25 [195 s]
+  DEGERLENDIRME it 80: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 25.4 adim nan kapi - baz-cizgiyi-gecti -
+it   85 adim 2.79M egitim-bulma %28.9 ent 2.26 [218 s]
+it   90 adim 2.95M egitim-bulma %32.3 ent 2.31 [227 s]
+it   95 adim 3.11M egitim-bulma %28.3 ent 2.32 [236 s]
+it  100 adim 3.28M egitim-bulma %34.1 ent 2.28 [245 s]
+  DEGERLENDIRME it 100: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 22.0 adim nan kapi - baz-cizgiyi-gecti -
+it  105 adim 3.44M egitim-bulma %31.1 ent 2.32 [268 s]
+it  110 adim 3.60M egitim-bulma %31.2 ent 2.28 [277 s]
+it  115 adim 3.77M egitim-bulma %34.7 ent 2.27 [286 s]
+it  120 adim 3.93M egitim-bulma %35.1 ent 2.31 [296 s]
+  DEGERLENDIRME it 120: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 18.1 adim nan kapi - baz-cizgiyi-gecti -
+it  125 adim 4.10M egitim-bulma %37.4 ent 2.29 [320 s]
+it  130 adim 4.26M egitim-bulma %30.7 ent 2.32 [329 s]
+it  135 adim 4.42M egitim-bulma %35.8 ent 2.33 [340 s]
+it  140 adim 4.59M egitim-bulma %38.4 ent 2.32 [350 s]
+  DEGERLENDIRME it 140: bulma %1.0 (GA 0.5-1.8) yanlis 0.00 tehlike 18.1 adim 44 kapi - baz-cizgiyi-gecti -
+it  145 adim 4.75M egitim-bulma %33.9 ent 2.28 [373 s]
+it  150 adim 4.92M egitim-bulma %32.9 ent 2.30 [382 s]
+it  155 adim 5.08M egitim-bulma %33.7 ent 2.29 [391 s]
+it  160 adim 5.24M egitim-bulma %30.9 ent 2.28 [401 s]
+  DEGERLENDIRME it 160: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.8 adim nan kapi - baz-cizgiyi-gecti -
+it  165 adim 5.41M egitim-bulma %29.1 ent 2.30 [420 s]
+it  170 adim 5.57M egitim-bulma %26.2 ent 2.31 [429 s]
+it  175 adim 5.73M egitim-bulma %27.7 ent 2.29 [439 s]
+it  180 adim 5.90M egitim-bulma %26.1 ent 2.29 [448 s]
+  DEGERLENDIRME it 180: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 7.5 adim nan kapi - baz-cizgiyi-gecti -
+it  185 adim 6.06M egitim-bulma %28.9 ent 2.31 [469 s]
+it  190 adim 6.23M egitim-bulma %22.3 ent 2.33 [479 s]
+it  195 adim 6.39M egitim-bulma %34.0 ent 2.30 [488 s]
+it  200 adim 6.55M egitim-bulma %33.4 ent 2.30 [498 s]
+  DEGERLENDIRME it 200: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 24.5 adim nan kapi - baz-cizgiyi-gecti -
+it  205 adim 6.72M egitim-bulma %33.4 ent 2.28 [522 s]
+it  210 adim 6.88M egitim-bulma %34.7 ent 2.29 [532 s]
+it  215 adim 7.05M egitim-bulma %38.5 ent 2.27 [542 s]
+it  220 adim 7.21M egitim-bulma %38.9 ent 2.28 [552 s]
+  DEGERLENDIRME it 220: bulma %1.7 (GA 1.1-2.7) yanlis 0.03 tehlike 21.8 adim 44 kapi - baz-cizgiyi-gecti -
+it  225 adim 7.37M egitim-bulma %36.5 ent 2.29 [576 s]
+it  230 adim 7.54M egitim-bulma %35.2 ent 2.30 [586 s]
+it  235 adim 7.70M egitim-bulma %35.0 ent 2.30 [595 s]
+it  240 adim 7.86M egitim-bulma %41.0 ent 2.28 [605 s]
+  DEGERLENDIRME it 240: bulma %8.7 (GA 7.1-10.6) yanlis 0.08 tehlike 19.4 adim 31 kapi - baz-cizgiyi-gecti -
+it  245 adim 8.03M egitim-bulma %46.8 ent 2.28 [629 s]
+it  250 adim 8.19M egitim-bulma %42.5 ent 2.28 [638 s]
+it  255 adim 8.36M egitim-bulma %44.3 ent 2.30 [647 s]
+it  260 adim 8.52M egitim-bulma %44.3 ent 2.30 [657 s]
+  DEGERLENDIRME it 260: bulma %12.6 (GA 10.7-14.8) yanlis 0.19 tehlike 11.1 adim 19 kapi - baz-cizgiyi-gecti -
+it  265 adim 8.68M egitim-bulma %39.8 ent 2.30 [679 s]
+it  270 adim 8.85M egitim-bulma %43.5 ent 2.28 [688 s]
+it  275 adim 9.01M egitim-bulma %45.3 ent 2.30 [698 s]
+it  280 adim 9.18M egitim-bulma %47.7 ent 2.28 [707 s]
+  DEGERLENDIRME it 280: bulma %22.0 (GA 19.5-24.7) yanlis 0.29 tehlike 19.0 adim 26 kapi - baz-cizgiyi-gecti -
+it  285 adim 9.34M egitim-bulma %47.2 ent 2.27 [730 s]
+it  290 adim 9.50M egitim-bulma %45.9 ent 2.25 [739 s]
+it  295 adim 9.67M egitim-bulma %47.0 ent 2.21 [749 s]
+it  300 adim 9.83M egitim-bulma %47.0 ent 2.20 [758 s]
+  DEGERLENDIRME it 300: bulma %10.4 (GA 8.7-12.4) yanlis 0.14 tehlike 14.5 adim 22 kapi - baz-cizgiyi-gecti -
+it  305 adim 9.99M egitim-bulma %46.7 ent 2.23 [781 s]
+it  310 adim 10.16M egitim-bulma %50.1 ent 2.20 [790 s]
+it  315 adim 10.32M egitim-bulma %43.5 ent 2.20 [800 s]
+it  320 adim 10.49M egitim-bulma %49.3 ent 2.18 [809 s]
+  DEGERLENDIRME it 320: bulma %14.4 (GA 12.4-16.7) yanlis 0.22 tehlike 11.8 adim 18 kapi - baz-cizgiyi-gecti -
+it  325 adim 10.65M egitim-bulma %51.7 ent 2.15 [832 s]
+it  330 adim 10.81M egitim-bulma %50.1 ent 2.19 [841 s]
+it  335 adim 10.98M egitim-bulma %48.3 ent 2.19 [851 s]
+it  340 adim 11.14M egitim-bulma %50.6 ent 2.18 [860 s]
+  DEGERLENDIRME it 340: bulma %0.4 (GA 0.2-1.0) yanlis 0.01 tehlike 22.3 adim 22 kapi - baz-cizgiyi-gecti -
+it  345 adim 11.30M egitim-bulma %53.4 ent 2.15 [883 s]
+it  350 adim 11.47M egitim-bulma %51.9 ent 2.14 [892 s]
+it  355 adim 11.63M egitim-bulma %51.0 ent 2.13 [901 s]
+it  360 adim 11.80M egitim-bulma %50.8 ent 2.14 [911 s]
+  DEGERLENDIRME it 360: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 19.8 adim nan kapi - baz-cizgiyi-gecti -
+it  365 adim 11.96M egitim-bulma %47.3 ent 2.12 [936 s]
+it  370 adim 12.12M egitim-bulma %50.1 ent 2.17 [946 s]
+it  375 adim 12.29M egitim-bulma %53.1 ent 2.14 [955 s]
+it  380 adim 12.45M egitim-bulma %52.1 ent 2.10 [965 s]
+  DEGERLENDIRME it 380: bulma %0.9 (GA 0.5-1.7) yanlis 0.02 tehlike 10.1 adim 24 kapi - baz-cizgiyi-gecti -
+it  385 adim 12.62M egitim-bulma %49.4 ent 2.12 [987 s]
+it  390 adim 12.78M egitim-bulma %53.3 ent 2.14 [997 s]
+it  395 adim 12.94M egitim-bulma %55.4 ent 2.15 [1007 s]
+it  400 adim 13.11M egitim-bulma %56.2 ent 2.13 [1016 s]
+  DEGERLENDIRME it 400: bulma %1.3 (GA 0.8-2.2) yanlis 0.02 tehlike 13.2 adim 37 kapi - baz-cizgiyi-gecti -
+it  405 adim 13.27M egitim-bulma %53.1 ent 2.13 [1038 s]
+it  410 adim 13.43M egitim-bulma %55.1 ent 2.16 [1048 s]
+it  415 adim 13.60M egitim-bulma %55.8 ent 2.15 [1057 s]
+it  420 adim 13.76M egitim-bulma %59.2 ent 2.17 [1067 s]
+  DEGERLENDIRME it 420: bulma %17.8 (GA 15.6-20.3) yanlis 0.23 tehlike 18.2 adim 33 kapi - baz-cizgiyi-gecti -
+it  425 adim 13.93M egitim-bulma %54.9 ent 2.19 [1090 s]
+it  430 adim 14.09M egitim-bulma %60.3 ent 2.11 [1100 s]
+it  435 adim 14.25M egitim-bulma %58.5 ent 2.17 [1109 s]
+it  440 adim 14.42M egitim-bulma %57.0 ent 2.15 [1119 s]
+  DEGERLENDIRME it 440: bulma %2.4 (GA 1.6-3.5) yanlis 0.02 tehlike 6.0 adim 21 kapi - baz-cizgiyi-gecti -
+it  445 adim 14.58M egitim-bulma %55.6 ent 2.17 [1142 s]
+it  450 adim 14.75M egitim-bulma %59.1 ent 2.17 [1151 s]
+it  455 adim 14.91M egitim-bulma %58.6 ent 2.17 [1161 s]
+it  460 adim 15.07M egitim-bulma %60.7 ent 2.14 [1170 s]
+  DEGERLENDIRME it 460: bulma %5.5 (GA 4.2-7.1) yanlis 0.09 tehlike 8.9 adim 27 kapi - baz-cizgiyi-gecti -
+it  465 adim 15.24M egitim-bulma %55.7 ent 2.16 [1193 s]
+it  470 adim 15.40M egitim-bulma %59.8 ent 2.14 [1202 s]
+it  475 adim 15.56M egitim-bulma %57.5 ent 2.12 [1211 s]
+it  480 adim 15.73M egitim-bulma %62.4 ent 2.08 [1221 s]
+  DEGERLENDIRME it 480: bulma %9.0 (GA 7.4-10.9) yanlis 0.12 tehlike 10.9 adim 21 kapi - baz-cizgiyi-gecti -
+it  485 adim 15.89M egitim-bulma %62.4 ent 2.05 [1244 s]
+it  490 adim 16.06M egitim-bulma %59.5 ent 2.10 [1253 s]
+it  495 adim 16.22M egitim-bulma %61.7 ent 2.12 [1263 s]
+it  500 adim 16.38M egitim-bulma %59.9 ent 2.10 [1272 s]
+  DEGERLENDIRME it 500: bulma %2.8 (GA 1.9-4.0) yanlis 0.06 tehlike 11.1 adim 22 kapi - baz-cizgiyi-gecti -
+it  505 adim 16.55M egitim-bulma %61.0 ent 2.09 [1296 s]
+it  510 adim 16.71M egitim-bulma %55.1 ent 2.07 [1306 s]
+it  515 adim 16.88M egitim-bulma %58.2 ent 2.09 [1315 s]
+it  520 adim 17.04M egitim-bulma %58.6 ent 2.09 [1325 s]
+  DEGERLENDIRME it 520: bulma %12.2 (GA 10.3-14.4) yanlis 0.14 tehlike 20.3 adim 28 kapi - baz-cizgiyi-gecti -
+it  525 adim 17.20M egitim-bulma %60.0 ent 2.11 [1346 s]
+it  530 adim 17.37M egitim-bulma %61.6 ent 2.13 [1355 s]
+it  535 adim 17.53M egitim-bulma %57.1 ent 2.12 [1365 s]
+it  540 adim 17.69M egitim-bulma %62.0 ent 2.10 [1374 s]
+  DEGERLENDIRME it 540: bulma %7.7 (GA 6.2-9.5) yanlis 0.08 tehlike 11.0 adim 18 kapi - baz-cizgiyi-gecti -
+it  545 adim 17.86M egitim-bulma %62.9 ent 2.08 [1397 s]
+it  550 adim 18.02M egitim-bulma %59.0 ent 2.05 [1407 s]
+it  555 adim 18.19M egitim-bulma %64.0 ent 2.04 [1416 s]
+it  560 adim 18.35M egitim-bulma %64.8 ent 1.98 [1426 s]
+  DEGERLENDIRME it 560: bulma %3.7 (GA 2.7-5.1) yanlis 0.03 tehlike 12.7 adim 16 kapi - baz-cizgiyi-gecti -
+it  565 adim 18.51M egitim-bulma %55.8 ent 2.00 [1448 s]
+it  570 adim 18.68M egitim-bulma %58.8 ent 2.00 [1458 s]
+it  575 adim 18.84M egitim-bulma %58.5 ent 1.99 [1468 s]
+it  580 adim 19.01M egitim-bulma %58.4 ent 2.00 [1477 s]
+  DEGERLENDIRME it 580: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 10.7 adim nan kapi - baz-cizgiyi-gecti -
+it  585 adim 19.17M egitim-bulma %55.6 ent 1.94 [1500 s]
+it  590 adim 19.33M egitim-bulma %57.5 ent 1.86 [1510 s]
+it  595 adim 19.50M egitim-bulma %56.2 ent 1.89 [1520 s]
+it  600 adim 19.66M egitim-bulma %51.4 ent 1.84 [1529 s]
+  DEGERLENDIRME it 600: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 8.6 adim nan kapi - baz-cizgiyi-gecti -
+it  605 adim 19.82M egitim-bulma %55.6 ent 1.75 [1550 s]
+it  610 adim 19.99M egitim-bulma %50.1 ent 1.77 [1559 s]
+it  615 adim 20.15M egitim-bulma %50.3 ent 1.89 [1569 s]
+it  620 adim 20.32M egitim-bulma %47.9 ent 1.79 [1578 s]
+  DEGERLENDIRME it 620: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 8.6 adim nan kapi - baz-cizgiyi-gecti -
+it  625 adim 20.48M egitim-bulma %43.0 ent 1.89 [1599 s]
+it  630 adim 20.64M egitim-bulma %41.6 ent 1.85 [1608 s]
+it  635 adim 20.81M egitim-bulma %44.0 ent 1.94 [1618 s]
+it  640 adim 20.97M egitim-bulma %40.9 ent 1.78 [1627 s]
+  DEGERLENDIRME it 640: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 8.0 adim nan kapi - baz-cizgiyi-gecti -
+it  645 adim 21.14M egitim-bulma %42.7 ent 1.79 [1647 s]
+it  650 adim 21.30M egitim-bulma %44.9 ent 1.79 [1657 s]
+it  655 adim 21.46M egitim-bulma %47.7 ent 1.94 [1666 s]
+it  660 adim 21.63M egitim-bulma %46.9 ent 1.82 [1676 s]
+  DEGERLENDIRME it 660: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 9.5 adim nan kapi - baz-cizgiyi-gecti -
+it  665 adim 21.79M egitim-bulma %48.1 ent 1.77 [1698 s]
+it  670 adim 21.95M egitim-bulma %44.3 ent 1.81 [1707 s]
+it  675 adim 22.12M egitim-bulma %51.8 ent 1.64 [1717 s]
+it  680 adim 22.28M egitim-bulma %48.0 ent 1.75 [1726 s]
+  DEGERLENDIRME it 680: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 12.4 adim nan kapi - baz-cizgiyi-gecti -
+it  685 adim 22.45M egitim-bulma %46.7 ent 1.75 [1749 s]
+it  690 adim 22.61M egitim-bulma %43.7 ent 1.67 [1759 s]
+it  695 adim 22.77M egitim-bulma %49.9 ent 1.76 [1769 s]
+it  700 adim 22.94M egitim-bulma %48.2 ent 1.66 [1778 s]
+  DEGERLENDIRME it 700: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 10.4 adim nan kapi - baz-cizgiyi-gecti -
+it  705 adim 23.10M egitim-bulma %50.1 ent 1.74 [1802 s]
+it  710 adim 23.27M egitim-bulma %45.6 ent 1.82 [1811 s]
+it  715 adim 23.43M egitim-bulma %43.9 ent 1.68 [1820 s]
+it  720 adim 23.59M egitim-bulma %47.0 ent 1.72 [1830 s]
+  DEGERLENDIRME it 720: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 10.7 adim nan kapi - baz-cizgiyi-gecti -
+it  725 adim 23.76M egitim-bulma %43.4 ent 1.79 [1852 s]
+it  730 adim 23.92M egitim-bulma %44.9 ent 1.73 [1861 s]
+it  735 adim 24.08M egitim-bulma %49.5 ent 1.79 [1870 s]
+it  740 adim 24.25M egitim-bulma %43.8 ent 1.80 [1879 s]
+  DEGERLENDIRME it 740: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 9.9 adim nan kapi - baz-cizgiyi-gecti -
+it  745 adim 24.41M egitim-bulma %42.7 ent 1.87 [1901 s]
+it  750 adim 24.58M egitim-bulma %41.2 ent 1.50 [1911 s]
+it  755 adim 24.74M egitim-bulma %44.5 ent 1.68 [1920 s]
+it  760 adim 24.90M egitim-bulma %46.7 ent 1.67 [1929 s]
+  DEGERLENDIRME it 760: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 8.5 adim nan kapi - baz-cizgiyi-gecti -
+it  765 adim 25.07M egitim-bulma %46.4 ent 1.75 [1949 s]
+it  770 adim 25.23M egitim-bulma %44.9 ent 1.75 [1959 s]
+it  775 adim 25.40M egitim-bulma %49.8 ent 1.64 [1968 s]
+it  780 adim 25.56M egitim-bulma %48.7 ent 1.61 [1978 s]
+  DEGERLENDIRME it 780: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 8.5 adim nan kapi - baz-cizgiyi-gecti -
+it  785 adim 25.72M egitim-bulma %45.2 ent 1.78 [1998 s]
+it  790 adim 25.89M egitim-bulma %47.2 ent 1.90 [2007 s]
+it  795 adim 26.05M egitim-bulma %45.0 ent 1.91 [2016 s]
+it  800 adim 26.21M egitim-bulma %45.9 ent 1.88 [2026 s]
+  DEGERLENDIRME it 800: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 9.4 adim nan kapi - baz-cizgiyi-gecti -
+bitti
+/opt/tfgpu/lib/python3.10/site-packages/tensorflow/lite/python/convert.py:953: UserWarning: Statistics for quantized inputs were expected, but not specified; continuing anyway.
+  warnings.warn(
+Summary on the non-converted ops:
+---------------------------------
+ * Accepted dialects: tfl, builtin, func
+ * Non-Converted Ops: 22, Total Ops 38, % non-converted = 57.89 %
+ * 22 ARITH ops
+
+
+
+
+int8 boyut: 60.8 KB  (52516 parametre)
+float: %23.4 (GA 20.9-26.1)   int8: %22.6 (GA 20.1-25.3)
+[05:25] 4/5 4 dron, 2 km
+parametre: 52581  (~51 KB int8)
+it    1 adim 0.03M egitim-bulma %100.0 ent 2.45 [12 s]
+it    5 adim 0.16M egitim-bulma %26.9 ent 2.36 [19 s]
+it   10 adim 0.33M egitim-bulma %25.4 ent 2.31 [28 s]
+it   15 adim 0.49M egitim-bulma %24.5 ent 2.32 [37 s]
+it   20 adim 0.66M egitim-bulma %16.0 ent 2.30 [46 s]
+  DEGERLENDIRME it 20: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 17.3 adim nan kapi - baz-cizgiyi-gecti -
+it   25 adim 0.82M egitim-bulma %10.3 ent 2.21 [81 s]
+it   30 adim 0.98M egitim-bulma %12.8 ent 2.12 [90 s]
+it   35 adim 1.15M egitim-bulma %5.9 ent 2.12 [99 s]
+it   40 adim 1.31M egitim-bulma %4.9 ent 2.06 [108 s]
+  DEGERLENDIRME it 40: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it   45 adim 1.47M egitim-bulma %5.7 ent 1.91 [133 s]
+it   50 adim 1.64M egitim-bulma %7.1 ent 2.08 [142 s]
+it   55 adim 1.80M egitim-bulma %7.9 ent 2.04 [152 s]
+it   60 adim 1.97M egitim-bulma %4.1 ent 2.03 [160 s]
+  DEGERLENDIRME it 60: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it   65 adim 2.13M egitim-bulma %5.5 ent 2.06 [186 s]
+it   70 adim 2.29M egitim-bulma %10.2 ent 1.98 [194 s]
+it   75 adim 2.46M egitim-bulma %12.4 ent 2.03 [203 s]
+it   80 adim 2.62M egitim-bulma %7.3 ent 2.02 [212 s]
+  DEGERLENDIRME it 80: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it   85 adim 2.79M egitim-bulma %9.1 ent 2.00 [237 s]
+it   90 adim 2.95M egitim-bulma %8.5 ent 1.95 [246 s]
+it   95 adim 3.11M egitim-bulma %8.3 ent 1.99 [255 s]
+it  100 adim 3.28M egitim-bulma %7.7 ent 1.95 [263 s]
+  DEGERLENDIRME it 100: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 4.2 adim nan kapi - baz-cizgiyi-gecti -
+it  105 adim 3.44M egitim-bulma %6.6 ent 2.00 [289 s]
+it  110 adim 3.60M egitim-bulma %8.0 ent 2.01 [297 s]
+it  115 adim 3.77M egitim-bulma %13.7 ent 1.99 [307 s]
+it  120 adim 3.93M egitim-bulma %7.1 ent 1.96 [315 s]
+  DEGERLENDIRME it 120: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 8.3 adim nan kapi - baz-cizgiyi-gecti -
+it  125 adim 4.10M egitim-bulma %12.4 ent 2.05 [342 s]
+it  130 adim 4.26M egitim-bulma %5.1 ent 2.03 [350 s]
+it  135 adim 4.42M egitim-bulma %10.8 ent 2.02 [359 s]
+it  140 adim 4.59M egitim-bulma %6.3 ent 2.03 [368 s]
+  DEGERLENDIRME it 140: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 11.0 adim nan kapi - baz-cizgiyi-gecti -
+it  145 adim 4.75M egitim-bulma %4.8 ent 2.03 [395 s]
+it  150 adim 4.92M egitim-bulma %3.3 ent 1.96 [404 s]
+it  155 adim 5.08M egitim-bulma %1.5 ent 1.75 [412 s]
+it  160 adim 5.24M egitim-bulma %5.0 ent 1.85 [421 s]
+  DEGERLENDIRME it 160: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  165 adim 5.41M egitim-bulma %4.0 ent 1.68 [446 s]
+it  170 adim 5.57M egitim-bulma %6.1 ent 1.79 [455 s]
+it  175 adim 5.73M egitim-bulma %5.3 ent 1.89 [464 s]
+it  180 adim 5.90M egitim-bulma %2.0 ent 1.73 [473 s]
+  DEGERLENDIRME it 180: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  185 adim 6.06M egitim-bulma %3.7 ent 1.60 [497 s]
+it  190 adim 6.23M egitim-bulma %5.3 ent 1.62 [506 s]
+it  195 adim 6.39M egitim-bulma %8.3 ent 1.74 [515 s]
+it  200 adim 6.55M egitim-bulma %7.1 ent 1.70 [523 s]
+  DEGERLENDIRME it 200: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  205 adim 6.72M egitim-bulma %9.0 ent 1.80 [548 s]
+it  210 adim 6.88M egitim-bulma %4.7 ent 1.99 [557 s]
+it  215 adim 7.05M egitim-bulma %1.0 ent 1.79 [565 s]
+it  220 adim 7.21M egitim-bulma %0.5 ent 1.48 [574 s]
+  DEGERLENDIRME it 220: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  225 adim 7.37M egitim-bulma %0.6 ent 1.30 [599 s]
+it  230 adim 7.54M egitim-bulma %0.0 ent 1.09 [607 s]
+it  235 adim 7.70M egitim-bulma %0.0 ent 0.95 [616 s]
+it  240 adim 7.86M egitim-bulma %0.0 ent 0.89 [625 s]
+  DEGERLENDIRME it 240: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  245 adim 8.03M egitim-bulma %0.0 ent 0.74 [650 s]
+it  250 adim 8.19M egitim-bulma %0.0 ent 0.75 [658 s]
+it  255 adim 8.36M egitim-bulma %0.0 ent 0.72 [667 s]
+it  260 adim 8.52M egitim-bulma %0.0 ent 0.70 [675 s]
+  DEGERLENDIRME it 260: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  265 adim 8.68M egitim-bulma %0.0 ent 0.71 [700 s]
+it  270 adim 8.85M egitim-bulma %0.0 ent 0.69 [709 s]
+it  275 adim 9.01M egitim-bulma %0.0 ent 0.68 [717 s]
+it  280 adim 9.18M egitim-bulma %0.0 ent 0.67 [726 s]
+  DEGERLENDIRME it 280: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  285 adim 9.34M egitim-bulma %0.0 ent 0.68 [750 s]
+it  290 adim 9.50M egitim-bulma %0.0 ent 0.67 [759 s]
+it  295 adim 9.67M egitim-bulma %0.0 ent 0.66 [767 s]
+it  300 adim 9.83M egitim-bulma %0.0 ent 0.63 [776 s]
+  DEGERLENDIRME it 300: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  305 adim 9.99M egitim-bulma %0.0 ent 0.64 [800 s]
+it  310 adim 10.16M egitim-bulma %0.0 ent 0.64 [809 s]
+it  315 adim 10.32M egitim-bulma %0.0 ent 0.62 [817 s]
+it  320 adim 10.49M egitim-bulma %0.0 ent 0.63 [826 s]
+  DEGERLENDIRME it 320: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  325 adim 10.65M egitim-bulma %0.0 ent 0.65 [851 s]
+it  330 adim 10.81M egitim-bulma %0.0 ent 0.65 [859 s]
+it  335 adim 10.98M egitim-bulma %0.0 ent 0.64 [867 s]
+it  340 adim 11.14M egitim-bulma %0.0 ent 0.66 [876 s]
+  DEGERLENDIRME it 340: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  345 adim 11.30M egitim-bulma %0.0 ent 0.61 [900 s]
+it  350 adim 11.47M egitim-bulma %0.0 ent 0.62 [909 s]
+it  355 adim 11.63M egitim-bulma %0.0 ent 0.62 [917 s]
+it  360 adim 11.80M egitim-bulma %0.0 ent 0.61 [925 s]
+  DEGERLENDIRME it 360: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  365 adim 11.96M egitim-bulma %0.0 ent 0.65 [950 s]
+it  370 adim 12.12M egitim-bulma %0.0 ent 0.65 [959 s]
+it  375 adim 12.29M egitim-bulma %0.0 ent 0.65 [968 s]
+it  380 adim 12.45M egitim-bulma %0.0 ent 0.63 [976 s]
+  DEGERLENDIRME it 380: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  385 adim 12.62M egitim-bulma %0.0 ent 0.64 [1001 s]
+it  390 adim 12.78M egitim-bulma %0.0 ent 0.66 [1009 s]
+it  395 adim 12.94M egitim-bulma %0.0 ent 0.66 [1018 s]
+it  400 adim 13.11M egitim-bulma %0.0 ent 0.65 [1027 s]
+  DEGERLENDIRME it 400: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  405 adim 13.27M egitim-bulma %0.0 ent 0.68 [1051 s]
+it  410 adim 13.43M egitim-bulma %0.0 ent 0.68 [1060 s]
+it  415 adim 13.60M egitim-bulma %0.0 ent 0.66 [1068 s]
+it  420 adim 13.76M egitim-bulma %0.0 ent 0.69 [1077 s]
+  DEGERLENDIRME it 420: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  425 adim 13.93M egitim-bulma %0.0 ent 0.67 [1102 s]
+it  430 adim 14.09M egitim-bulma %0.0 ent 0.63 [1110 s]
+it  435 adim 14.25M egitim-bulma %0.0 ent 0.57 [1119 s]
+it  440 adim 14.42M egitim-bulma %0.0 ent 0.61 [1127 s]
+  DEGERLENDIRME it 440: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  445 adim 14.58M egitim-bulma %0.0 ent 0.67 [1152 s]
+it  450 adim 14.75M egitim-bulma %0.0 ent 0.63 [1161 s]
+it  455 adim 14.91M egitim-bulma %0.0 ent 0.64 [1170 s]
+it  460 adim 15.07M egitim-bulma %0.0 ent 0.67 [1178 s]
+  DEGERLENDIRME it 460: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  465 adim 15.24M egitim-bulma %0.0 ent 0.63 [1203 s]
+it  470 adim 15.40M egitim-bulma %0.0 ent 0.67 [1211 s]
+it  475 adim 15.56M egitim-bulma %0.0 ent 0.66 [1221 s]
+it  480 adim 15.73M egitim-bulma %0.0 ent 0.66 [1230 s]
+  DEGERLENDIRME it 480: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  485 adim 15.89M egitim-bulma %0.0 ent 0.67 [1255 s]
+it  490 adim 16.06M egitim-bulma %0.0 ent 0.69 [1264 s]
+it  495 adim 16.22M egitim-bulma %0.0 ent 0.71 [1272 s]
+it  500 adim 16.38M egitim-bulma %0.0 ent 0.71 [1281 s]
+  DEGERLENDIRME it 500: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  505 adim 16.55M egitim-bulma %0.0 ent 0.66 [1305 s]
+it  510 adim 16.71M egitim-bulma %0.0 ent 0.68 [1314 s]
+it  515 adim 16.88M egitim-bulma %0.0 ent 0.68 [1323 s]
+it  520 adim 17.04M egitim-bulma %0.0 ent 0.66 [1331 s]
+  DEGERLENDIRME it 520: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  525 adim 17.20M egitim-bulma %0.0 ent 0.67 [1356 s]
+it  530 adim 17.37M egitim-bulma %0.0 ent 0.66 [1364 s]
+it  535 adim 17.53M egitim-bulma %0.0 ent 0.64 [1373 s]
+it  540 adim 17.69M egitim-bulma %0.0 ent 0.66 [1381 s]
+  DEGERLENDIRME it 540: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  545 adim 17.86M egitim-bulma %0.0 ent 0.66 [1405 s]
+it  550 adim 18.02M egitim-bulma %0.0 ent 0.67 [1414 s]
+it  555 adim 18.19M egitim-bulma %0.0 ent 0.68 [1423 s]
+it  560 adim 18.35M egitim-bulma %0.0 ent 0.65 [1431 s]
+  DEGERLENDIRME it 560: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  565 adim 18.51M egitim-bulma %0.0 ent 0.69 [1455 s]
+it  570 adim 18.68M egitim-bulma %0.0 ent 0.71 [1464 s]
+it  575 adim 18.84M egitim-bulma %0.0 ent 0.72 [1473 s]
+it  580 adim 19.01M egitim-bulma %0.0 ent 0.71 [1481 s]
+  DEGERLENDIRME it 580: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  585 adim 19.17M egitim-bulma %0.0 ent 0.71 [1506 s]
+it  590 adim 19.33M egitim-bulma %0.0 ent 0.71 [1514 s]
+it  595 adim 19.50M egitim-bulma %0.0 ent 0.71 [1522 s]
+it  600 adim 19.66M egitim-bulma %0.0 ent 0.69 [1531 s]
+  DEGERLENDIRME it 600: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  605 adim 19.82M egitim-bulma %0.0 ent 0.69 [1556 s]
+it  610 adim 19.99M egitim-bulma %0.0 ent 0.65 [1565 s]
+it  615 adim 20.15M egitim-bulma %0.0 ent 0.67 [1573 s]
+it  620 adim 20.32M egitim-bulma %0.0 ent 0.65 [1581 s]
+  DEGERLENDIRME it 620: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  625 adim 20.48M egitim-bulma %0.0 ent 0.63 [1606 s]
+it  630 adim 20.64M egitim-bulma %0.0 ent 0.68 [1614 s]
+it  635 adim 20.81M egitim-bulma %0.0 ent 0.66 [1623 s]
+it  640 adim 20.97M egitim-bulma %0.0 ent 0.68 [1631 s]
+  DEGERLENDIRME it 640: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  645 adim 21.14M egitim-bulma %0.0 ent 0.67 [1655 s]
+it  650 adim 21.30M egitim-bulma %0.0 ent 0.67 [1664 s]
+it  655 adim 21.46M egitim-bulma %0.0 ent 0.70 [1672 s]
+it  660 adim 21.63M egitim-bulma %0.0 ent 0.70 [1681 s]
+  DEGERLENDIRME it 660: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  665 adim 21.79M egitim-bulma %0.0 ent 0.68 [1705 s]
+it  670 adim 21.95M egitim-bulma %0.0 ent 0.66 [1714 s]
+it  675 adim 22.12M egitim-bulma %0.0 ent 0.67 [1722 s]
+it  680 adim 22.28M egitim-bulma %0.0 ent 0.69 [1731 s]
+  DEGERLENDIRME it 680: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  685 adim 22.45M egitim-bulma %0.0 ent 0.68 [1755 s]
+it  690 adim 22.61M egitim-bulma %0.0 ent 0.67 [1763 s]
+it  695 adim 22.77M egitim-bulma %0.0 ent 0.65 [1772 s]
+it  700 adim 22.94M egitim-bulma %0.0 ent 0.64 [1780 s]
+  DEGERLENDIRME it 700: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  705 adim 23.10M egitim-bulma %0.0 ent 0.61 [1804 s]
+it  710 adim 23.27M egitim-bulma %0.0 ent 0.59 [1813 s]
+it  715 adim 23.43M egitim-bulma %0.0 ent 0.67 [1822 s]
+it  720 adim 23.59M egitim-bulma %0.0 ent 0.69 [1830 s]
+  DEGERLENDIRME it 720: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  725 adim 23.76M egitim-bulma %0.0 ent 0.69 [1855 s]
+it  730 adim 23.92M egitim-bulma %0.0 ent 0.70 [1864 s]
+it  735 adim 24.08M egitim-bulma %0.0 ent 0.68 [1872 s]
+it  740 adim 24.25M egitim-bulma %0.0 ent 0.68 [1881 s]
+  DEGERLENDIRME it 740: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  745 adim 24.41M egitim-bulma %0.0 ent 0.68 [1905 s]
+it  750 adim 24.58M egitim-bulma %0.0 ent 0.69 [1914 s]
+it  755 adim 24.74M egitim-bulma %0.0 ent 0.65 [1923 s]
+it  760 adim 24.90M egitim-bulma %0.0 ent 0.63 [1931 s]
+  DEGERLENDIRME it 760: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  765 adim 25.07M egitim-bulma %0.0 ent 0.67 [1956 s]
+it  770 adim 25.23M egitim-bulma %0.0 ent 0.68 [1964 s]
+it  775 adim 25.40M egitim-bulma %0.0 ent 0.67 [1973 s]
+it  780 adim 25.56M egitim-bulma %0.0 ent 0.65 [1982 s]
+  DEGERLENDIRME it 780: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+it  785 adim 25.72M egitim-bulma %0.0 ent 0.69 [2006 s]
+it  790 adim 25.89M egitim-bulma %0.0 ent 0.68 [2015 s]
+it  795 adim 26.05M egitim-bulma %0.0 ent 0.70 [2024 s]
+it  800 adim 26.21M egitim-bulma %0.0 ent 0.69 [2032 s]
+  DEGERLENDIRME it 800: bulma %0.0 (GA 0.0-0.4) yanlis 0.00 tehlike 3.7 adim nan kapi - baz-cizgiyi-gecti -
+bitti
+/opt/tfgpu/lib/python3.10/site-packages/tensorflow/lite/python/convert.py:953: UserWarning: Statistics for quantized inputs were expected, but not specified; continuing anyway.
+  warnings.warn(
+Summary on the non-converted ops:
+---------------------------------
+ * Accepted dialects: tfl, builtin, func
+ * Non-Converted Ops: 22, Total Ops 38, % non-converted = 57.89 %
+ * 22 ARITH ops
+
+
+
+
+int8 boyut: 60.8 KB  (52516 parametre)
+float: %0.0 (GA 0.0-0.4)   int8: %0.0 (GA 0.0-0.4)
+[06:00] 5/5 test kumesi baz cizgileri (tohum 2.000.000+)
+harita 1.4 km, 2 dron, 1000 bolum (tohum 2000000+), pil 1400 s
+rastgele               bulma %27.9 (%95 GA 25.2-30.8) adim 60 yanlis 0.68 tehlike 33.2 veto 0.8 kapsama %25  [11.5 s]
+klasik tarama (bantli) bulma %74.9 (%95 GA 72.1-77.5) adim 64 yanlis 0.52 tehlike 25.7 veto 0.0 kapsama %53  [2.6 s]
+tarama yuksek irtifa   bulma %80.1 (%95 GA 77.5-82.5) adim 63 yanlis 1.38 tehlike 23.6 veto 0.0 kapsama %61  [2.6 s]
+harita 2.0 km, 4 dron, 1000 bolum (tohum 2000000+), pil 1400 s
+rastgele               bulma %26.7 (%95 GA 24.1-29.5) adim 60 yanlis 0.69 tehlike 64.9 veto 3.4 kapsama %24  [13.7 s]
+klasik tarama (bantli) bulma %67.2 (%95 GA 64.2-70.0) adim 57 yanlis 0.54 tehlike 50.4 veto 0.0 kapsama %51  [4.4 s]
+tarama yuksek irtifa   bulma %79.4 (%95 GA 76.8-81.8) adim 57 yanlis 1.27 tehlike 43.5 veto 0.0 kapsama %58  [4.6 s]
+[06:01] GECE KUYRUGU BITTI
